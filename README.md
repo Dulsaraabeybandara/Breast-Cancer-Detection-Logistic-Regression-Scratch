@@ -99,3 +99,4 @@ Breast-Cancer-Detection-Logistic-Regression-Scratch/
 ## Author
 
 **Dulsara Abeybandara**
+GitHub: [Dulsaraabeybandara](https://github.com/Dulsaraabeybandara)
